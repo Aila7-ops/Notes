@@ -1,0 +1,27 @@
+﻿Mr Warren notes
+
+Linux commands
+
+· cd name of folder (Change Directory) – We use this command to change the directory
+· PWD (Present Working Directory)
+· ../ - Go back up one level
+· ../../ - Go back two levels
+· Control Z – This is the ‘quit’ command and it is used to stop any ongoing processes.
+· ls - Tells you what is available/around you to see what folders/files you have access to. The names of these files are case-sensitive
+· ls -l : this means “give me a long list”
+· Make a folder – mkdir name (make a directory)
+· Make a file (txt) – touch name
+· Delete a file (txt) – rm filename
+· Delete a directory - rmdir directory_name
+· Rename a folder – mv old name new name / rename command
+· Rename a file (txt) – mv old file name new file name
+· Renaming File (new) - rename 's/old_name/new_name/' file_name
+· Move a folder – mv old folder new folder
+cp -r source_folder destination_folder (if you want to remove the folder from the previous location) && rm -r source_folder
+· Move a file (txt) - source_file destination_file (if you want to remove the file from the previous location) && rm -r source_file
+· How to enter a file in a terminal: nano filename
+
+
+
+
+Bash
